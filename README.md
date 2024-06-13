@@ -7,7 +7,7 @@ A fireside chat is a personal and interactive discussion in a safe and cosy sett
 
 ### Goals
 
-Our hope is to foster a warm and welcoming atomsphere where any participant can explore any relevant topic with questions and discussions, leading to a greater sense of community ownership over the running of and direction of our various open source projects. 
+Our hope is to bring together small focused groups of contributors in a welcoming environment to discuss the direction, issues, and gaps in the available knowledge base of our projects and to empower them to get more involved.
 
 ### Code of Conduct
 
