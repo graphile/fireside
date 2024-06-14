@@ -3,7 +3,7 @@ Graphile fireside chats for maintainers and contributors to the Graphile suite.
 
 ### What?
 
-A fireside chat is a personal and interactive discussion in a safe and cosy setting. A Graphile fireside chat takes place either on Zoom or in a Discord voice channel between project maintainers and contributors. Participants are personally invited and discussion points are agreed beforehand. 
+A fireside chat is a personal and interactive discussion in a safe and cosy setting. A Graphile fireside chat takes place either on Zoom or in a Discord voice channel between project maintainers and contributors. Participants are either sponsors or project contributors and many are personally invited. Discussion points can be proposed and agreed beforehand. 
 
 ### Goals
 
